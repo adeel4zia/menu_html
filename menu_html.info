@@ -1,0 +1,7 @@
+name = Menu HTML
+description = Allows menu items to contain html.
+dependencies[] = menu
+backdrop = 1.x
+type = module
+package = Menu HTML
+version = 7.x-1.0
